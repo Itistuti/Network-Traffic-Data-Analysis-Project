@@ -1,4 +1,4 @@
-# 24058948 Stuti Kalakheti — IDS Data Analysis Case Study
+
 
 ## Overview
 
